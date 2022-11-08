@@ -1,1 +1,4 @@
-# social-network-link-prediction
+# Social Network Link Prediction
+
+### Parag Dudeja
+### Bhavna Nagar
