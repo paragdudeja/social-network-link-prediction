@@ -1,5 +1,5 @@
 # Social Network Link Prediction
 
 ## Done By:
-### Parag Dudeja
-### Bhavna Nagar
+### Bhavna Nagar, 12
+### Parag Dudeja, 34
